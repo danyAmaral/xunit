@@ -6,7 +6,7 @@ namespace CalculatorAPP.Test
     {
         // NomeDaFuncao__EntradaDeValores__ResultadoEsperado
         [Fact]
-        public void Add_GivenTwoIntValues_ReturnsInt()
+        public void Add_GivenTwoIntValues_ReturnsSUM()
         {
             var numeber1 = 2;
             var number2 = 2;
@@ -18,7 +18,7 @@ namespace CalculatorAPP.Test
         }
 
         [Fact]
-        public void Add_GivenTwoDoubleValues_ReturnsDouble()
+        public void Add_GivenTwoDoubleValues_ReturnsSUM()
         {
             var double1 = 2.2;
             var double2 = 2.1;
