@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\git-dani\\udemy-xunit\\xunit\\Calculations\\CalculatorAPP.Test\\CalculatorAPP.Test.csproj": {}
+    "D:\\GIT\\xunit\\Calculations\\CalculatorAPP.Test\\CalculatorAPP.Test.csproj": {}
   },
   "projects": {
-    "C:\\git-dani\\udemy-xunit\\xunit\\Calculations\\CalculatorAPP.Test\\CalculatorAPP.Test.csproj": {
+    "D:\\GIT\\xunit\\Calculations\\CalculatorAPP.Test\\CalculatorAPP.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git-dani\\udemy-xunit\\xunit\\Calculations\\CalculatorAPP.Test\\CalculatorAPP.Test.csproj",
+        "projectUniqueName": "D:\\GIT\\xunit\\Calculations\\CalculatorAPP.Test\\CalculatorAPP.Test.csproj",
         "projectName": "CalculatorAPP.Test",
-        "projectPath": "C:\\git-dani\\udemy-xunit\\xunit\\Calculations\\CalculatorAPP.Test\\CalculatorAPP.Test.csproj",
-        "packagesPath": "C:\\Users\\danielle.constancio\\.nuget\\packages\\",
-        "outputPath": "C:\\git-dani\\udemy-xunit\\xunit\\Calculations\\CalculatorAPP.Test\\obj\\",
+        "projectPath": "D:\\GIT\\xunit\\Calculations\\CalculatorAPP.Test\\CalculatorAPP.Test.csproj",
+        "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
+        "outputPath": "D:\\GIT\\xunit\\Calculations\\CalculatorAPP.Test\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\danielle.constancio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +32,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\git-dani\\udemy-xunit\\xunit\\Calculations\\ConsoleApp1\\CalculatorAPP.csproj": {
-                "projectPath": "C:\\git-dani\\udemy-xunit\\xunit\\Calculations\\ConsoleApp1\\CalculatorAPP.csproj"
+              "D:\\GIT\\xunit\\Calculations\\ConsoleApp1\\CalculatorAPP.csproj": {
+                "projectPath": "D:\\GIT\\xunit\\Calculations\\ConsoleApp1\\CalculatorAPP.csproj"
               }
             }
           }
@@ -84,21 +88,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\git-dani\\udemy-xunit\\xunit\\Calculations\\ConsoleApp1\\CalculatorAPP.csproj": {
+    "D:\\GIT\\xunit\\Calculations\\ConsoleApp1\\CalculatorAPP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git-dani\\udemy-xunit\\xunit\\Calculations\\ConsoleApp1\\CalculatorAPP.csproj",
+        "projectUniqueName": "D:\\GIT\\xunit\\Calculations\\ConsoleApp1\\CalculatorAPP.csproj",
         "projectName": "CalculatorAPP",
-        "projectPath": "C:\\git-dani\\udemy-xunit\\xunit\\Calculations\\ConsoleApp1\\CalculatorAPP.csproj",
-        "packagesPath": "C:\\Users\\danielle.constancio\\.nuget\\packages\\",
-        "outputPath": "C:\\git-dani\\udemy-xunit\\xunit\\Calculations\\ConsoleApp1\\obj\\",
+        "projectPath": "D:\\GIT\\xunit\\Calculations\\ConsoleApp1\\CalculatorAPP.csproj",
+        "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
+        "outputPath": "D:\\GIT\\xunit\\Calculations\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\danielle.constancio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -138,7 +146,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

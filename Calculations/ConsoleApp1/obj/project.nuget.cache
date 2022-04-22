@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oF8WsQaLaTUMX76btA4AS3SZgP8fq7/NNGUOXEbQ8hjZ5cePYNw/w1p3YyQtH4X0CGw+T/Gjoa3ZxfGwqUWBpA==",
+  "dgSpecHash": "yrvg+vrn97c8Pz7e95+OMz4kfKQnvJk7Ak/0HP09o7ddRoiNlyLHN8s9AstwH5XK8OuaPDTo3pTjI275x3O3ZQ==",
   "success": true,
-  "projectFilePath": "C:\\git-dani\\udemy-xunit\\xunit\\Calculations\\ConsoleApp1\\CalculatorAPP.csproj",
+  "projectFilePath": "D:\\GIT\\xunit\\Calculations\\ConsoleApp1\\CalculatorAPP.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
