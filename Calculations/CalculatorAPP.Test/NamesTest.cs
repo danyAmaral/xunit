@@ -42,14 +42,5 @@ namespace CalculatorAPP.Test
             var result = names.MakeFullName("danielle", "amaral");
             Assert.True(!string.IsNullOrWhiteSpace(result));
         }
-
-
-        [Fact]
-        public void MakeFullName_AlwaysReturnValue2()
-        {
-            var names = new Names();
-            var result = names.MakeFullName("danielle", "amaral");
-            Assert.True(!string.IsNullOrWhiteSpace(result));
-        }
     }
 }
