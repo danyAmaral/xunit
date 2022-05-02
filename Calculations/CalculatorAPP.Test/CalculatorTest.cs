@@ -49,5 +49,34 @@ namespace CalculatorAPP.Test
 
             Assert.Equal(4.3, result, 1);
         }
+
+        [Fact]
+        public void IsOdd_GivenOddValue_ReturnsTrue()
+        {
+            var calc = _calculatorFixture.Calc;
+            var result = calc.IsOdd(1);
+            Assert.True(result);
+        }
+
+
+        [Fact]
+        public void IsOdd_GivenEvenValue_ReturnsFalse()
+        {
+            var calc = _calculatorFixture.Calc;
+            var result = calc.IsOdd(2);
+            Assert.False(result);
+        }
+
+        [Theory]
+        [InlineData(1,true)]
+        [InlineData(2,false)]
+        public void IsOdd_TestOddAndEven(int value,bool expected)
+        {
+            var calc = _calculatorFixture.Calc;
+            var result = calc.IsOdd(value);
+            Assert.Equal(expected, result);
+        }
+
+
     }
 }
